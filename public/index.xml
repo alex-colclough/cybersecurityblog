@@ -10,9 +10,9 @@
     <atom:link href="https://cybersecurityblog.pages.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://cybersecurityblog.pages.dev/about/</link>
+      <link>https://cybersecurityblog.pages.dev/posts/about/</link>
       <pubDate>Fri, 13 Sep 2024 20:10:50 -0400</pubDate>
-      <guid>https://cybersecurityblog.pages.dev/about/</guid>
+      <guid>https://cybersecurityblog.pages.dev/posts/about/</guid>
       <description>&lt;h1 id=&#34;welcome-to-my-blog&#34;&gt;Welcome to my blog!&lt;/h1&gt;
 &lt;p&gt;This is my personal website for documenting things i have learned, advice i want to give, and have a centralized place to document things that I find interesting. Welcome!&lt;/p&gt;
 &lt;h1 id=&#34;about-me&#34;&gt;About me&lt;/h1&gt;

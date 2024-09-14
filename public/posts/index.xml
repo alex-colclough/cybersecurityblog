@@ -6,8 +6,18 @@
     <description>Recent content in Posts on Alex Colclough</description>
     <generator>Hugo -- 0.134.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Sep 2024 19:55:58 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 20:10:50 -0400</lastBuildDate>
     <atom:link href="https://cybersecurityblog.pages.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://cybersecurityblog.pages.dev/posts/about/</link>
+      <pubDate>Fri, 13 Sep 2024 20:10:50 -0400</pubDate>
+      <guid>https://cybersecurityblog.pages.dev/posts/about/</guid>
+      <description>&lt;h1 id=&#34;welcome-to-my-blog&#34;&gt;Welcome to my blog!&lt;/h1&gt;
+&lt;p&gt;This is my personal website for documenting things i have learned, advice i want to give, and have a centralized place to document things that I find interesting. Welcome!&lt;/p&gt;
+&lt;h1 id=&#34;about-me&#34;&gt;About me&lt;/h1&gt;
+&lt;p&gt;I am an information security professional that has had a wide range of experience throughout a variety of different information technology career fields. I started as a student help desk worker and slowly rose through the ranks. My next job was a jack of all trades role, and then I discovered my first love of system administration. I did that for 4.5 years and primarily focused on SharePoint (on-premises and SharePoint Online), active directory, Office365, Security, and a variety of other one-off projects that come about from being a system administrator.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Test Post</title>
       <link>https://cybersecurityblog.pages.dev/posts/hello-world/</link>
